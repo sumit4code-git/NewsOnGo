@@ -1,7 +1,6 @@
 <div align="center">
 
 ![alt text](https://image.shutterstock.com/image-photo/online-news-mobile-phone-close-600w-1204164946.jpg)
-<img src="https://image.shutterstock.com/image-photo/online-news-mobile-phone-close-600w-1204164946.jpg" alt="Girl in a jacket" width="500" height="600">
 # News On Go
 All News On Your Palm
 
