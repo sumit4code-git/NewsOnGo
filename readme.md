@@ -12,6 +12,7 @@ All News On Your Palm
 2. Save news locally
 3. Search for any news from entire World
 4. Delete the saved news by swapping right
+5. Night Mode Support Avilable
 
 ---
 ### Stack Used
@@ -24,4 +25,4 @@ All News On Your Palm
 8. Pagination     : To reduce number of Api calls
 ---
 ### Apk Link
-https://drive.google.com/file/d/1HzuAKsICqsBBJoNVijCUkSdVG3sx5xEL/view?usp=sharing
+https://drive.google.com/file/d/1L1O5dTrl0LD5cqSHGQL47eUD1zCdxbhW/view?usp=sharing
